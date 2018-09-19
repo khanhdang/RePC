@@ -33,11 +33,9 @@
 
 # Folders
 
-debug
-release
-.vscode
-.vs
 x64
 x86
 Release
 Debug
+debug
+release
